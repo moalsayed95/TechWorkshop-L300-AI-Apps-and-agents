@@ -317,12 +317,3 @@ src/
 - **Project Docs:** See `docs/` folder for detailed workshop instructions
 - **Flow Diagram:** `src/flow.md` for application flow visualization
 
-## Questions?
-
-Review the following key files:
-1. `src/chat_app.py:396-467` - WebSocket session setup
-2. `src/app/agents/agent_processor.py:42-84` - Agent initialization
-3. `src/services/agent_service.py:6-21` - Agent caching pattern
-4. `src/flow.md` - Complete application flow
-
-Good luck with your project!
